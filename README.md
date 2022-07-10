@@ -78,10 +78,10 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Coden" width="40" height="40"/> </a> </p>
 
 ---
-<img src="https://github-readme-stats.vercel.app/api?username=SagarAnand03&show_icons=true&locale=en&theme=codeSTACKr" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SagarAnand03&theme=dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Navneetsahu&show_icons=true&locale=en&theme=codeSTACKr" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Navneetsahu&theme=dark&hide_border=true" />
 
-[![Sagar Anand's  github activity graph](https://activity-graph.herokuapp.com/graph?username=SagarAnand03&bg_color=11143b&color=96bf4a&line=4c9d9e&point=57f471&area=true&hide_border=true)](https://github.com/SagarAnand03/github-readme-activity-graph)
+[![Navneet sahu's  github activity graph](https://activity-graph.herokuapp.com/graph?username=Navneetsahu&bg_color=11143b&color=96bf4a&line=4c9d9e&point=57f471&area=true&hide_border=true)](https://github.com/Navneetsahu/github-readme-activity-graph)
 
 ## My Contribution 
-![snake gif](https://github.com/SagarAnand03/SagarAnand03/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Navneetsahu/Navneetsahu/blob/output/github-contribution-grid-snake.svg)
  
